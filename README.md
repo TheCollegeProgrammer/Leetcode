@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -55,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 <!---LeetCode Topics End-->
