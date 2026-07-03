@@ -5,19 +5,15 @@ public:
         for(int n : nums){
             freq[n]++;
         }
-        vector<pair<int, int>> v;
-        for (auto &it : freq) {
-            v.push_back({it.first, it.second});
+        priority_queue<pair<int, int>> pq;
+        for (auto it : freq) {
+            pq.push({it.second, it.first});
         }
-        sort(v.begin(), v.end(), [](pair<int, int> &a, pair<int, int> &b) {
-            return a.second > b.second;
-        });
-
         vector<int> ans;
-        for (int i = 0; i < k; i++) {
-            ans.push_back(v[i].first);
+        while (k--) {
+            ans.push_back(pq.top().second);
+            pq.pop();
         }
-
         return ans;
     }
 };
