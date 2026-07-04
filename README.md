@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1672-richest-customer-wealth](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
