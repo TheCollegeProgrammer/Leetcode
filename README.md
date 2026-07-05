@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Queue
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,4 +98,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
