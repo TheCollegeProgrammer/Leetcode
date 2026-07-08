@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0746-min-cost-climbing-stairs](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
