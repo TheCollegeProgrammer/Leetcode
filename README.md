@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0016-3sum-closest) |
 | [0189-rotate-array](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
