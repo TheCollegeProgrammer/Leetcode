@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0171-excel-sheet-column-number](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0268-missing-number) |
