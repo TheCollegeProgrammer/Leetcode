@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0016-3sum-closest) |
+| [0046-permutations](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -186,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
