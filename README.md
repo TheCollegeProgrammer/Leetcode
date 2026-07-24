@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -191,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0046-permutations) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
