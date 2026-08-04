@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Binary Search
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
