@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0561-array-partition](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1051-height-checker) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0055-jump-game) |
+| [0561-array-partition](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0561-array-partition) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 ## Stack
 |  |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1051-height-checker) |
 ## String Matching
 |  |
