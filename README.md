@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0016-3sum-closest) |
 | [0046-permutations](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0120-triangle) |
 | [0189-rotate-array](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0189-rotate-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0120-triangle) |
