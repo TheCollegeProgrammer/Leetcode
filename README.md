@@ -278,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1206-design-skiplist](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1206-design-skiplist) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
