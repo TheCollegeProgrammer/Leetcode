@@ -148,17 +148,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0513-find-bottom-left-tree-value](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0998-maximum-binary-tree-ii](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0998-maximum-binary-tree-ii) |
 | [1361-validate-binary-tree-nodes](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0513-find-bottom-left-tree-value](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [1361-validate-binary-tree-nodes](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0513-find-bottom-left-tree-value](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0998-maximum-binary-tree-ii](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0998-maximum-binary-tree-ii) |
 | [1361-validate-binary-tree-nodes](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Matrix
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [1361-validate-binary-tree-nodes](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Union-Find
 |  |
