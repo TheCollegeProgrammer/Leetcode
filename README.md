@@ -148,14 +148,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1361-validate-binary-tree-nodes](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1361-validate-binary-tree-nodes](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1361-validate-binary-tree-nodes](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Matrix
 |  |
 | ------- |
@@ -286,4 +289,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0175-combine-two-tables) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1361-validate-binary-tree-nodes](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
+## Union-Find
+|  |
+| ------- |
+| [1361-validate-binary-tree-nodes](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
+## Graph Theory
+|  |
+| ------- |
+| [1361-validate-binary-tree-nodes](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 <!---LeetCode Topics End-->
