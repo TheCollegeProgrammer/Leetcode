@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0273-integer-to-english-words](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0273-integer-to-english-words) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Rolling Hash
 |  |
 | ------- |
