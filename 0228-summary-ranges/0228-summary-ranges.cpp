@@ -17,18 +17,15 @@ public:
                     // Single number
                     ans.push_back(to_string(nums[start]));
                 } 
-                else {
-                    // Range
+                else { // Range
                     ans.push_back(
                         to_string(nums[start]) + "->" +
                         to_string(nums[i - 1])
                     );
                 }
-
                 start = i;
             }
         }
-
         return ans;
     }
 };
