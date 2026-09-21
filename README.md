@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0349-intersection-of-two-arrays) |
