@@ -14,14 +14,12 @@ public:
             else if(i>second && i!=largest){
                 third=second;
                 second=i;
-            }
-            else if(i>third && i!=second && i!=largest){
+            }else if(i>third && i!=second && i!=largest){
                 third=i;
             }
         }
         if (third == LLONG_MIN)
             return largest;
-
         return third;
     }
 };
