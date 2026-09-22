@@ -10,8 +10,7 @@ public:
                 third=second;
                 second=largest;
                 largest=i;
-            }
-            else if(i>second && i!=largest){
+            }else if(i>second && i!=largest){
                 third=second;
                 second=i;
             }else if(i>third && i!=second && i!=largest){
