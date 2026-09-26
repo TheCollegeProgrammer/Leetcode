@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0724-find-pivot-index](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0812-largest-triangle-area](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0977-squares-of-a-sorted-array](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1051-height-checker) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0507-perfect-number](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0812-largest-triangle-area](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
@@ -325,5 +327,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0836-rectangle-overlap) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
