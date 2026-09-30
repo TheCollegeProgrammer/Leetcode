@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0415-add-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Queue
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0415-add-strings](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0812-largest-triangle-area) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Binary Search
