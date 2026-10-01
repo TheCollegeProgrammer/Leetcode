@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0504-base-7) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Queue
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0812-largest-triangle-area) |
