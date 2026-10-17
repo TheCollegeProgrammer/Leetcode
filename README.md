@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0120-triangle) |
 | [0189-rotate-array](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0204-count-primes) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0349-intersection-of-two-arrays) |
