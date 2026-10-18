@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0187-repeated-dna-sequences](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0120-triangle) |
 | [0189-rotate-array](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0189-rotate-array) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/TheCollegeProgrammer/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
